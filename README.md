@@ -1,2 +1,0 @@
-# hwe
-Hugo test site
