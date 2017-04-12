@@ -1,0 +1,5 @@
+baseURL = "http://hwe.auxe.net/"
+languageCode = "en-us"
+title = "My Hugo Site"
+[params]
+    copyright = "Michel"
